@@ -3,11 +3,10 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.: 660610737
 
-ชื่อ-สกุล :
-
-GitHub Page URL :
+ชื่อ-สกุล : กมลรัตน์ แซ่บุญ
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-Mosjitos/
 
 ---
 
